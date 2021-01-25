@@ -1,2 +1,2 @@
-this is more than a git read me file
-and i also think this is indeed importan
+This is more than a git read me file
+and I also think this is indeed important
